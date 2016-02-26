@@ -1366,5 +1366,13 @@
     "description": "A redis client based on hiredis, supports cluster/pipeline and is thread safe and includes two files only. The transaction is on the way:)",
     "authors": [],
     "active": true
+  },
+  {
+    "name": "SwiftRedis",
+    "language": "Swift",
+    "repository": "https://github.com/jabwd/SwiftRedis",
+    "description": "A hiredis wrapper in Swift, implements the basic commands in Swift and gives access to hiredis in Swift."
+    "authors": ["Antwan va Houdt"],
+    "active": true
   }
 ]
